@@ -83,3 +83,10 @@ Backups/*/Plugins/*/Binaries/*
 Backups/*/Plugins/*/Intermediate/*
 Backups/**/Crashes/
 Backups/**/Logs/
+
+
+#Specific files due to 100mb limit
+*Content/MetaHumans/Common/Face/Face_Archetype.uasset
+*Content/MetaHumans/Theo/Face/Theo_FaceMesh.uasset
+*Content/STF/Pack03-LandscapePro/Maps/open_world_LSP_v2.umap
+*Content/PN_Fern/Textures/MasterTextures/Ground/
