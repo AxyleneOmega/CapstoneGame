@@ -88,5 +88,9 @@ Backups/**/Logs/
 #Specific files due to 100mb limit
 *Content/MetaHumans/Common/Face/Face_Archetype.uasset
 *Content/MetaHumans/Theo/Face/Theo_FaceMesh.uasset
+*Content/MetaHumans/TheoDad/Face/TheoDad_FaceMesh.uasset
+*Content/MetaHumans/Valerie/Face/Valerie_FaceMesh.uasset
+*Content/MetaHumans/Warden/Face/Warden_FaceMesh.uasset
+*Content/MetaHumans/GeorgeRoommate/Face/GeorgeRoommate_FaceMesh.uasset
 *Content/STF/Pack03-LandscapePro/Maps/open_world_LSP_v2.umap
 *Content/PN_Fern/Textures/MasterTextures/Ground/
